@@ -19,7 +19,7 @@
     </radialGradient>
   </defs>
   <g id="sun" transform="translate(-5255.05 -5987.931)">
-    <path id="Path_161" data-name="Path 161" d="M1813.422,865.58c0,364.328-415.565,659.64-779.893,659.64s-843.939-300.7-843.939-665.03S669.2,205.87,1033.529,205.87s779.893,295.312,779.893,659.64Z" transform="translate(5065.46 5786.107)" fill="url(#radial-gradient)"/>
-    <circle id="Ellipse_23" data-name="Ellipse 23" cx="498.02" cy="498.02" r="498.02" transform="matrix(0.237, -0.972, 0.972, 0.237, 5470.802, 6955.594)" fill="url(#radial-gradient-2)"/>
+    <path id="Path_161" d="M1813.422,865.58c0,364.328-415.565,659.64-779.893,659.64s-843.939-300.7-843.939-665.03S669.2,205.87,1033.529,205.87s779.893,295.312,779.893,659.64Z" transform="translate(5065.46 5786.107)" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_23"  cx="498.02" cy="498.02" r="498.02" transform="matrix(0.237, -0.972, 0.972, 0.237, 5470.802, 6955.594)" fill="url(#radial-gradient-2)"/>
   </g>
 </svg>
